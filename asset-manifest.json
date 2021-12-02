@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yatomanagerui/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/yatomanagerui/static/js/main.d0023176.chunk.js",
+    "main.js.map": "/yatomanagerui/static/js/main.d0023176.chunk.js.map",
+    "runtime-main.js": "/yatomanagerui/static/js/runtime-main.9e8231a9.js",
+    "runtime-main.js.map": "/yatomanagerui/static/js/runtime-main.9e8231a9.js.map",
+    "static/css/2.63b3dda3.chunk.css": "/yatomanagerui/static/css/2.63b3dda3.chunk.css",
+    "static/js/2.64c54257.chunk.js": "/yatomanagerui/static/js/2.64c54257.chunk.js",
+    "static/js/2.64c54257.chunk.js.map": "/yatomanagerui/static/js/2.64c54257.chunk.js.map",
+    "static/js/3.5ca1aa8b.chunk.js": "/yatomanagerui/static/js/3.5ca1aa8b.chunk.js",
+    "static/js/3.5ca1aa8b.chunk.js.map": "/yatomanagerui/static/js/3.5ca1aa8b.chunk.js.map",
+    "index.html": "/yatomanagerui/index.html",
+    "static/css/2.63b3dda3.chunk.css.map": "/yatomanagerui/static/css/2.63b3dda3.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/yatomanagerui/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.64c54257.chunk.js.LICENSE.txt": "/yatomanagerui/static/js/2.64c54257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e8231a9.js",
+    "static/css/2.63b3dda3.chunk.css",
+    "static/js/2.64c54257.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d0023176.chunk.js"
+  ]
+}
